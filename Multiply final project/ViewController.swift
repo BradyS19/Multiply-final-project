@@ -8,12 +8,24 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet weak var firstNumberTextField: UITextField!
+    @IBOutlet weak var secondNumberTextField: UITextField!
+    @IBOutlet weak var answerLable: UILabel!
+    @IBOutlet weak var answerImage: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func multiplyWhenPressed(_ sender: UIButton) {
+        //MVP
+        
+//        Stretch 2 and 3
+        
+//      Stretch 1
+        
+    }
+    
 }
 
