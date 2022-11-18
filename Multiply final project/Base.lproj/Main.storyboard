@@ -72,7 +72,7 @@
                         <outlet property="answerImage" destination="8Ci-yY-Wed" id="9bo-Jp-QPi"/>
                         <outlet property="answerLable" destination="bxk-WK-d3I" id="Phu-2y-UnB"/>
                         <outlet property="firstNumberTextField" destination="LSy-xN-0FI" id="InT-1i-OB6"/>
-                        <outlet property="secondNumberTextField" destination="LSy-xN-0FI" id="tNY-kP-ddr"/>
+                        <outlet property="secondNumberTextField" destination="tqD-qU-dAc" id="qNQ-H0-ReW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

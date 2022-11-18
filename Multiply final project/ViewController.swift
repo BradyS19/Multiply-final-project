@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     @IBAction func multiplyWhenPressed(_ sender: UIButton) {
         //MVP
         
+        
+        var answer = Int(firstNumberTextField.text!)! * Int(secondNumberTextField.text!)!
+        answerLable.text = "\(answer)"
 //        Stretch 2 and 3
         
 //      Stretch 1
