@@ -69,6 +69,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="answerImage" destination="0fE-vb-QVQ" id="w3Z-Wz-kz2"/>
                         <outlet property="answerLable" destination="bxk-WK-d3I" id="Phu-2y-UnB"/>
                         <outlet property="firstNumberTextField" destination="LSy-xN-0FI" id="InT-1i-OB6"/>
                         <outlet property="secondNumberTextField" destination="tqD-qU-dAc" id="qNQ-H0-ReW"/>
