@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var answerLable: UILabel!
     @IBOutlet weak var answerImage: UIImageView!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
