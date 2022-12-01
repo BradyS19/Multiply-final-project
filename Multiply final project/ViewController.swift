@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var firstNumberTextField: UITextField!
     @IBOutlet weak var secondNumberTextField: UITextField!
     @IBOutlet weak var answerLable: UILabel!
-    @IBOutlet weak var answerImage: UIImageView!
+    
     
     
     override func viewDidLoad() {
