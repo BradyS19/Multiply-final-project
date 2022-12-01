@@ -25,11 +25,9 @@ class ViewController: UIViewController {
         
         var answer = Int(firstNumberTextField.text!)! * Int(secondNumberTextField.text!)!
         answerLable.text = "\(answer)"
-//        Stretch 2 and 3
-     if answerImage
-//      Stretch 1
+
         
-        //Stretch 4
+    
         
     }
     
